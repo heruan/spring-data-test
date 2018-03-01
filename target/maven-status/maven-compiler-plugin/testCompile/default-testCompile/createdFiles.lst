@@ -1,0 +1,4 @@
+it/axians/spring/test/JpaConfiguration.class
+it/axians/spring/test/Foo.class
+it/axians/spring/test/FooRepository.class
+it/axians/spring/test/FooRepositoryTest.class
